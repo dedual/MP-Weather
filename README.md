@@ -1,9 +1,3 @@
-//
-//  README.md
-//  MP-Weather
-//
-//  Created by Nicolas Dedual on 11/2/24.
-//
 # MP-Weather
  A weather app that integrates with OpenWeather.
  

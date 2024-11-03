@@ -82,6 +82,16 @@ struct SearchView: View {
         .onSubmit(of: .search) {
             Task {
                 await viewModel.runSearch(searchLocation: viewModel.searchLocationsText)
+                guard let location = viewModel.retrievedLocations.first else {
+                    viewModel.showAlertMessage = "No locations found. Try another queryn"
+                    viewModel.showAlert = true
+                    return
+                }
+                dismissSearch()
+                UserPreferences.lastRetrievedLocationInfo = location
+                viewModel.previousLocations.insert(location)
+                viewModel.searchLocationsText = ""
+                viewModel.switchTo(tab: .forecast)
             }
         }
     }

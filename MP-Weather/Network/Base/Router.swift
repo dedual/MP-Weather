@@ -14,7 +14,6 @@ enum Router:Equatable
     case currentWithQuery(query:String)
     case forecastWithQuery(query:String)
     case geocode(query:String)
-    // note: don't use OpenWeather's geocoding service. Apple provides a more accurate one that's free to iOS developers
     
     var url:String
     {

@@ -31,6 +31,8 @@ struct ForecastView: View {
                 } label: {
                     Text("Search for a location in the search view").font(.title)
                 }
+                .accessibilityLabel(Text("Tap to use search for a specific location to retrieve a weather forecast"))
+
                 Text("or maybe").font(.title)
                 Button {
                     // trigger location request
@@ -40,6 +42,8 @@ struct ForecastView: View {
                 } label: {
                     Text("Use your device's location?").font(.title)
                 }
+                .accessibilityLabel(Text("Tap to use your device's location to retrieve a weather forecast"))
+
             }
             else
             {
@@ -159,7 +163,9 @@ struct ForecastView: View {
                                     })
                                 }
                             }
-                        }.scrollIndicators(.hidden)
+                        }
+                        .scrollIndicators(.hidden)
+                        .accessibilityHint("Scroll left and right to get more forecast information")
                     }
                 }
                 .padding()

@@ -67,6 +67,9 @@
     "Pull to refresh" : {
 
     },
+    "Scroll left and right to get more forecast information" : {
+
+    },
     "Search for a location in the search view" : {
 
     },
@@ -99,6 +102,12 @@
       }
     },
     "Sunset at: %@" : {
+
+    },
+    "Tap to use search for a specific location to retrieve a weather forecast" : {
+
+    },
+    "Tap to use your device's location to retrieve a weather forecast" : {
 
     },
     "Uh-oh" : {

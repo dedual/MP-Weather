@@ -1,0 +1,15 @@
+//
+//  MP-Weather.xcconfig
+//  MP-Weather
+//
+//  Created by Nicolas Dedual on 11/2/24.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+#include "secrets.xcconfig"
+
+APP_NAME = MPWeather
+APP_BUNDLE_ID = com.deent.MP-Weather
+
+OPENWEATHER_BASE_URL = https:/$()/api.openweathermap.org/

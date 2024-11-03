@@ -1,0 +1,132 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "%@" : {
+
+    },
+    "Always use device location on app load" : {
+
+    },
+    "Cannot retrieve weather forecast" : {
+
+    },
+    "feels like " : {
+      "comment" : "\"Feels like\" text",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "feels like "
+          }
+        }
+      }
+    },
+    "Forecast" : {
+
+    },
+    "Get your local weather report" : {
+
+    },
+    "Here we can define some typical user preferences we use within the application" : {
+
+    },
+    "Locations" : {
+
+    },
+    "No forecasts found! " : {
+
+    },
+    "Now Loading" : {
+      "comment" : "Loading text to display",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Now Loading"
+          }
+        }
+      }
+    },
+    "Okay" : {
+
+    },
+    "or maybe" : {
+
+    },
+    "Preferred Language" : {
+
+    },
+    "Preferred temperature units" : {
+
+    },
+    "Previous Locations" : {
+
+    },
+    "Pull to refresh" : {
+
+    },
+    "Search for a location in the search view" : {
+
+    },
+    "Settings" : {
+
+    },
+    "Sunrise at: " : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sunrise at: "
+          }
+        }
+      }
+    },
+    "Sunrise at: %@" : {
+
+    },
+    "sunset" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sunset at: "
+          }
+        }
+      }
+    },
+    "Sunset at: %@" : {
+
+    },
+    "Uh-oh" : {
+
+    },
+    "Unknown Location" : {
+
+    },
+    "Use your device's location?" : {
+
+    },
+    "User Preferences" : {
+
+    },
+    "visibility" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Visibility:"
+          }
+        }
+      }
+    },
+    "Visibility: %@%%" : {
+
+    }
+  },
+  "version" : "1.0"
+}

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>af</key>
+	<string>Afrikaans</string>
+	<key>al</key>
+	<string>Albanian</string>
+	<key>ar</key>
+	<string>Arabic</string>
+	<key>az</key>
+	<string>Azerbaijani</string>
+	<key>bg</key>
+	<string>Bulgarian</string>
+	<key>ca</key>
+	<string>Catalan</string>
+	<key>cz</key>
+	<string>Czech</string>
+	<key>da</key>
+	<string>Danish</string>
+	<key>de</key>
+	<string>German</string>
+	<key>el</key>
+	<string>Greek</string>
+	<key>en</key>
+	<string>English</string>
+	<key>eu</key>
+	<string>Basque</string>
+	<key>fa</key>
+	<string>Persian/Farsi</string>
+	<key>fi</key>
+	<string>Finnish</string>
+	<key>fr</key>
+	<string>French</string>
+	<key>gl</key>
+	<string>Galician</string>
+	<key>he</key>
+	<string>Hebre</string>
+	<key>hi</key>
+	<string>Hindi</string>
+	<key>hr</key>
+	<string>Croatian</string>
+	<key>hu</key>
+	<string>Hungarian</string>
+	<key>id</key>
+	<string>Indonesian</string>
+	<key>it</key>
+	<string>Italian</string>
+	<key>ja</key>
+	<string>Japanese</string>
+	<key>kr</key>
+	<string>Korean</string>
+	<key>la</key>
+	<string>Latvian</string>
+	<key>li</key>
+	<string>Lithuanian</string>
+	<key>nl</key>
+	<string>Dutch</string>
+	<key>pl</key>
+	<string>Polish</string>
+	<key>pt</key>
+	<string>Portuguese</string>
+	<key>pt_br</key>
+	<string>Português Brasil</string>
+	<key>ro</key>
+	<string>Romanian</string>
+	<key>ru</key>
+	<string>Russian</string>
+	<key>sv</key>
+	<string>Swedish</string>
+	<key>sv-se</key>
+	<string>Swedish</string>
+	<key>sk</key>
+	<string>Slovak</string>
+	<key>sl</key>
+	<string>Slovenian</string>
+	<key>sp</key>
+	<string>Spanish (Spain)</string>
+	<key>es</key>
+	<string>Spanish (Latin America)</string>
+	<key>sr</key>
+	<string>Serbian</string>
+	<key>th</key>
+	<string>Thai</string>
+	<key>tr</key>
+	<string>Turkish</string>
+	<key>ua</key>
+	<string>Ukrainian</string>
+	<key>uk</key>
+	<string>Ukrainian</string>
+	<key>vi</key>
+	<string>Vietnamese</string>
+	<key>zh_cn</key>
+	<string>Chinese Simplified</string>
+	<key>zh_tw</key>
+	<string>Chinese Traditional</string>
+	<key>zu</key>
+	<string>Zulu</string>
+</dict>
+</plist>
